@@ -1,4 +1,4 @@
-![logo](/logo.lpg)
+![logo](/logo.jpg)
 ## Machi Koro Game Server
 version 0.0.1
 
